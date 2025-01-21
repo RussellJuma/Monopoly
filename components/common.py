@@ -1,0 +1,2 @@
+from pieces import Piece
+
